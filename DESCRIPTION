@@ -18,3 +18,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/DavisVaughan/testpkgdownvignette
+BugReports: https://github.com/DavisVaughan/testpkgdownvignette/issues
